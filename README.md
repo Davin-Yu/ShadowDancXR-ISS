@@ -7,7 +7,7 @@ Difeng Yu, Weiwei Jiang, Chaofan Wang, Tilman Dingler, Eduardo Velloso, and Jorg
 https://youtu.be/gqfFyrcuwN8
 
 #### Working Prototype
-To remotely demonstrate our work, we implemented a version of ShadowDancXR, which is fully-based on smartphones. For now, its accuracy is not as good as the PC version but allows an easier distribution and remote experiences. Just download the .apk files from the links below and it should work on Android smartphones.
+To remotely demonstrate our work, we implemented a fully smartphones-based version of ShadowDancXR. For now, its accuracy is not as good as the PC version but allows an easier distribution and remote experiences. Just download the .apk files from the links below and it should work on Android smartphones.
 
 - **VR Mirror**: https://mega.nz/file/Rs8jlK5L#8smlECp-HSzcZpSHTsUlmJhV_25anq4YeD3IkhF9Z90
 
