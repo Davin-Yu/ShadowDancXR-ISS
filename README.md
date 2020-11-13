@@ -9,8 +9,6 @@ https://youtu.be/gqfFyrcuwN8
 #### Working Prototype
 To remotely demonstrate our work, we implemented a fully smartphones-based version of ShadowDancXR. For now, its accuracy is not as good as the PC version but allows an easier distribution and remote experiences. Just download the .apk files from the links below and it should work on Android smartphones.
 
-- **VR Mirror**: https://mega.nz/file/Rs8jlK5L#8smlECp-HSzcZpSHTsUlmJhV_25anq4YeD3IkhF9Z90
-
-- **Bird Simulator**: https://mega.nz/file/Rt0TXAhJ#81DAi2FuGOPmH-41Z6papOgCFc2nkwPy2cBkYgnkvK0
+The demo session is finished. Please keep an eye on the future releases of the technique. Thanks!
 
 Enjoy XD
